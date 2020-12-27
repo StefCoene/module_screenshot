@@ -48,7 +48,7 @@ Make sure that all available channels are visible by unticking the box at the bo
 | 0x2E | VMB1BLS |
 | 0x30 | VMBRFR8S |
 | 0x2F | VMBDMI-R | 
-| 0x31 | VMBMETEO | [VMBMETO](https://github.com/StefCoene/module_screenshot/raw/main/VMBMETEO.png)
+| 0x31 | VMBMETEO | [VMBMETEO](https://github.com/StefCoene/module_screenshot/raw/main/VMBMETEO.png)
 | 0x32 | VMB4AN | 
 | 0x33 | VMBVP01 | 
 | 0x34 | VMBEL1 | 
